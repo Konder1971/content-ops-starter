@@ -72,7 +72,7 @@
         },
         {
             "type": "Button",
-            "label": "Get started",
+            "label": "Page2",
             "altText": "Page2",
             "url": "/page2",
             "showIcon": false,
