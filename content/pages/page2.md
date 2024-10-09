@@ -3,7 +3,7 @@ type: PageLayout
 title: Page2
 sections:
   - type: CarouselSection
-    subtitle: This is a subtitle
+    subtitle: This is a subtitle Page 2
     items:
       - type: FeaturedItem
         title: >-
